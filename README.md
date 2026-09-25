@@ -67,7 +67,7 @@ I like working at the intersection of **software engineering, data, machine lear
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,c,cpp&perline=10" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp&perline=10" alt="Languages" />
 </p>
 
 ### Full-Stack Development
