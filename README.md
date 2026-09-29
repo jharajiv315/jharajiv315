@@ -397,11 +397,10 @@ Dynamic Programming
 </a>
 
 <a href="https://github.com/jharajiv315">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jharajiv315&layout=compact&langs_count=8&hide_border=true&bg_color=0f172a&title_color=f8fafc&text_color=cbd5e1"
-    alt="Rajiv Jha most used programming languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jharajiv315&show_icons=true" height="180" />
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jharajiv315&layout=compact" height="180" />
 </a>
 
 </div>
