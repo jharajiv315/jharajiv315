@@ -105,29 +105,58 @@ My goal is not only to build models, but to understand the engineering required 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp&perline=10" alt="Java Python JavaScript C C++" />
+  <img
+    src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp&perline=10"
+    alt="Java Python JavaScript C C++"
+  />
 </p>
 
 ### Frontend & Application Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,vite,tailwind&perline=10" alt="React Node.js Express Vite Tailwind CSS" />
+  <img
+    src="https://skillicons.dev/icons?i=react,nodejs,express,vite,tailwind&perline=10"
+    alt="React Node.js Express Vite Tailwind CSS"
+  />
 </p>
 
 ### Data & Machine Learning
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="45" alt="Matplotlib" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45" alt="Scikit-learn" />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+    height="45"
+    alt="Python"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
+    height="45"
+    alt="NumPy"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
+    height="45"
+    alt="Pandas"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"
+    height="45"
+    alt="Matplotlib"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"
+    height="45"
+    alt="Scikit-learn"
+  />
 </p>
 
 ### Databases & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,git,github,vscode,figma&perline=10" alt="PostgreSQL MongoDB Git GitHub VS Code Figma" />
+  <img
+    src="https://skillicons.dev/icons?i=postgresql,mongodb,git,github,vscode,figma&perline=10"
+    alt="PostgreSQL MongoDB Git GitHub VS Code Figma"
+  />
 </p>
 
 > I prefer listing technologies after I've actually used them in code or projects.
@@ -391,31 +420,26 @@ Dynamic Programming
 <a href="https://github.com/jharajiv315">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=jharajiv315&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0f172a&title_color=f8fafc&text_color=cbd5e1&icon_color=94a3b8&rank_icon=github"
+    src="https://github-stats-extended.vercel.app/api?username=jharajiv315&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0f172a&title_color=f8fafc&text_color=cbd5e1&icon_color=94a3b8&rank_icon=github"
     alt="Rajiv Jha GitHub statistics"
   />
 </a>
 
 <a href="https://github.com/jharajiv315">
-  <img src="https://github-readme-stats.vercel.app/api?username=jharajiv315&show_icons=true" height="180" />
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jharajiv315&layout=compact" height="180" />
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=jharajiv315&layout=compact&langs_count=8&hide_border=true&bg_color=0f172a&title_color=f8fafc&text_color=cbd5e1"
+    alt="Rajiv Jha most used programming languages"
+  />
 </a>
 
-</div>
-
-<br />
-
-<div align="center">
+<br /><br />
 
 <a href="https://github.com/jharajiv315">
-
-<img
-  src="https://streak-stats.demolab.com?user=jharajiv315&theme=dark&hide_border=true&background=0F172A&ring=94A3B8&fire=FFFFFF&currStreakLabel=F8FAFC&sideLabels=CBD5E1&dates=94A3B8"
-  alt="Rajiv Jha GitHub contribution streak"
-/>
-
+  <img
+    src="https://streak-stats.demolab.com?user=jharajiv315&theme=dark&hide_border=true&background=0F172A&ring=94A3B8&fire=FFFFFF&currStreakLabel=F8FAFC&sideLabels=CBD5E1&dates=94A3B8"
+    alt="Rajiv Jha GitHub contribution streak"
+  />
 </a>
 
 </div>
@@ -427,23 +451,19 @@ Dynamic Programming
 <div align="center">
 
 <a href="https://leetcode.com/u/Rajiv_Jha/">
-
-<img
-  src="https://leetcard.jacoblin.cool/Rajiv_Jha?theme=dark&ext=activity"
-  alt="Rajiv Jha LeetCode statistics"
-/>
-
+  <img
+    src="https://leetcard.jacoblin.cool/Rajiv_Jha?theme=dark&ext=activity"
+    alt="Rajiv Jha LeetCode statistics"
+  />
 </a>
 
 <br /><br />
 
 <a href="https://leetcode.com/u/Rajiv_Jha/">
-
-<img
-  src="https://img.shields.io/badge/LeetCode-@Rajiv__Jha-0f172a?style=for-the-badge&logo=leetcode&logoColor=white"
-  alt="Rajiv Jha LeetCode profile"
-/>
-
+  <img
+    src="https://img.shields.io/badge/LeetCode-@Rajiv__Jha-0f172a?style=for-the-badge&logo=leetcode&logoColor=white"
+    alt="Rajiv Jha LeetCode profile"
+  />
 </a>
 
 </div>
@@ -612,7 +632,5 @@ I'm building these foundations step by step rather than trying to skip directly 
 <br /><br />
 
 ### Building. Learning. Debugging. Improving.
-
-<sub>© Rajiv Jha · Computer Science Student · Aspiring AI/ML Engineer</sub>
 
 </div>
