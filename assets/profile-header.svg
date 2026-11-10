@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" fill="none">
+<title>Rajiv Jha — Software, data, and the space between.</title>
+<desc>Computer science student building toward AI and machine learning engineering. Mumbai, India.</desc>
+<rect width="1280" height="360" rx="16" fill="#141918"/>
+<path d="M860 0V360M960 0V360M1060 0V360M1160 0V360M820 80H1280M820 180H1280M820 280H1280" stroke="#26312D" stroke-width="1"/>
+<circle cx="1060" cy="180" r="122" stroke="#4B6359"/>
+<circle cx="1060" cy="180" r="82" stroke="#769383"/>
+<path d="M938 180H1182M1060 58V302" stroke="#769383"/>
+<circle cx="1060" cy="180" r="9" fill="#C6DBAA"/>
+<circle cx="1060" cy="58" r="5" fill="#C6DBAA"/>
+<circle cx="1182" cy="180" r="5" fill="#C6DBAA"/>
+<rect x="48" y="48" width="28" height="3" fill="#C6DBAA"/>
+<text x="90" y="56" fill="#BAC7BF" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="3">RAJIV JHA / ENGINEERING NOTEBOOK</text>
+<text x="48" y="143" fill="#F3F0E8" font-family="Georgia, 'Times New Roman', serif" font-size="58">Software, data,</text>
+<text x="48" y="210" fill="#F3F0E8" font-family="Georgia, 'Times New Roman', serif" font-size="58">and the space between.</text>
+<text x="50" y="258" fill="#BAC7BF" font-family="Arial, Helvetica, sans-serif" font-size="19">Learning the foundations. Building things that use them.</text>
+<path d="M48 294H780" stroke="#35433C"/>
+<text x="50" y="325" fill="#BAC7BF" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2">COMPUTER SCIENCE</text>
+<text x="302" y="325" fill="#BAC7BF" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2">MUMBAI, INDIA</text>
+<text x="537" y="325" fill="#C6DBAA" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2">CLASS OF 2029</text>
+</svg>
