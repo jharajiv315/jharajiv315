@@ -1,142 +1,137 @@
-<!-- Custom artwork lives in assets/. SVG animation respects reduced-motion preferences. -->
+<!-- Repository-owned SVG artwork. Header animation includes reduced-motion support. -->
 <a href="https://portfolio-beta-ochre-90.vercel.app/">
-  <img src="./assets/profile-header.svg" width="100%" alt="Rajiv Jha — Curiosity into code. Code into possibility. Computer science student and aspiring AI/ML engineer." />
+<img src="./assets/profile-header.svg" width="100%" alt="Rajiv Jha. Software builder, ML learner. Mumbai, India. B.Tech 2029. Two-time hackathon finalist." />
 </a>
 
 <p align="center">
-  <a href="https://portfolio-beta-ochre-90.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-101522?style=for-the-badge&amp;logo=vercel&amp;logoColor=A6E8CD" alt="Visit portfolio" /></a>
-  <a href="https://www.linkedin.com/in/rajiv-jha-9b36ba3a2/"><img src="https://img.shields.io/badge/LINKEDIN-101522?style=for-the-badge&amp;logo=linkedin&amp;logoColor=C4B3FF" alt="Connect on LinkedIn" /></a>
-  <a href="https://leetcode.com/u/Rajiv_Jha/"><img src="https://img.shields.io/badge/LEETCODE-101522?style=for-the-badge&amp;logo=leetcode&amp;logoColor=EAC594" alt="Visit LeetCode" /></a>
-  <a href="mailto:jharajiv315@gmail.com"><img src="https://img.shields.io/badge/EMAIL-101522?style=for-the-badge&amp;logo=gmail&amp;logoColor=8ECBF3" alt="Email Rajiv" /></a>
-</p>
-
-<p align="center">
-  <a href="#about">Behind the code</a> &nbsp; · &nbsp;
-  <a href="#projects">Selected work</a> &nbsp; · &nbsp;
-  <a href="#workbench">On my workbench</a> &nbsp; · &nbsp;
-  <a href="#activity">Activity</a>
+<a href="https://portfolio-beta-ochre-90.vercel.app/"><b>PORTFOLIO ↗</b></a> &nbsp;&nbsp; / &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/rajiv-jha-9b36ba3a2/"><b>LINKEDIN ↗</b></a> &nbsp;&nbsp; / &nbsp;&nbsp;
+<a href="https://leetcode.com/u/Rajiv_Jha/"><b>LEETCODE ↗</b></a> &nbsp;&nbsp; / &nbsp;&nbsp;
+<a href="mailto:jharajiv315@gmail.com"><b>EMAIL ↗</b></a>
 </p>
 
 <br />
 
-<a id="about"></a>
-### A little context.
+### A builder's mindset. A student's curiosity.
 
-I'm **Rajiv**, a computer science student at **SLRTCE, Mumbai**, building toward **AI/ML engineering**. I work on web applications, explore data with Python, and practise problem solving in Java.
+I'm a computer science student at **SLRTCE, Mumbai**, working toward **AI/ML engineering**. I build web applications, explore data with Python, and practise problem solving in Java.
 
-What keeps me interested is the connection between those things: a model is more useful when someone can actually use it, and an interface is only as good as the system behind it. I'm learning to build both, one project at a time.
+I'm interested in how the pieces connect: the data, the model, the backend, and the interface someone actually uses. My projects are where I work through those connections—and discover what I still need to learn.
+
+<p><a href="#selected-work">Explore my work ↓</a> &nbsp; · &nbsp; <a href="#currently">What I'm learning ↓</a> &nbsp; · &nbsp; <a href="#toolkit">My toolkit ↓</a></p>
 
 <br />
 
-<a id="projects"></a>
-### Selected work
-<sub>Four projects, different problems. Click a card to explore.</sub>
+<a id="selected-work"></a>
+## Selected work
+<sub>Personal builds and team projects. Click a card to explore; expand the notes for context.</sub>
 
-<br /><br />
-
-<a href="https://github.com/jharajiv315/KRIVIO-AI"><img src="./assets/project-krivio.svg" width="49%" alt="KRIVIO AI — AI-assisted commerce for rural entrepreneurs. Explore repository." /></a>
-<a href="https://portfolio-beta-ochre-90.vercel.app/"><img src="./assets/project-portfolio.svg" width="49%" alt="Portfolio and CMS — A personal site backed by its own content system. Open portfolio." /></a>
 <br />
-<a href="https://github.com/jharajiv315/CodeAlpha_EcommerceStore"><img src="./assets/project-nexora.svg" width="49%" alt="NEXORA — E-commerce with transactional checkout. Explore repository." /></a>
-<a href="https://truva-gules.vercel.app/"><img src="./assets/project-truva.svg" width="49%" alt="TRUVA — Packaging-text extraction and inspection. Open demo; source is private." /></a>
+
+<a href="https://github.com/jharajiv315/KRIVIO-AI"><img src="./assets/project-krivio.svg" width="100%" alt="KRIVIO AI — AI-assisted commerce for rural entrepreneurs" /></a>
 
 <details>
-<summary><b>01 / KRIVIO AI — look inside the project</b></summary>
+<summary><b>What we're building ↴</b></summary>
 
-A team project exploring AI-assisted commerce for artisans, farmers, and self-help groups.
+A team project exploring digital-commerce tools for artisans, farmers, and self-help groups. Voice assistance in Indian languages, product-image workflows, catalog exports, and shareable storefronts bring the experience together.
 
-- Voice assistance in Indian languages.
-- Product-image workflows and catalog exports.
-- Shareable storefronts connecting products with customers.
+**Stack:** React · TypeScript · FastAPI · PostgreSQL · Gemini
 
-**Built with:** React, TypeScript, FastAPI, PostgreSQL, and Gemini.  
-[Explore source and architecture →](https://github.com/jharajiv315/KRIVIO-AI)
+[Source and architecture →](https://github.com/jharajiv315/KRIVIO-AI)
 
 </details>
 
+<br />
+
+<a href="https://portfolio-beta-ochre-90.vercel.app/"><img src="./assets/project-portfolio.svg" width="100%" alt="Portfolio and CMS — a personal site with its own content system" /></a>
+
 <details>
-<summary><b>02 / Portfolio & CMS — beyond the frontend</b></summary>
+<summary><b>Behind the interface ↴</b></summary>
 
-A public portfolio paired with an admin dashboard for projects, skills, and timeline entries. Content can be updated through the dashboard without changing the frontend source.
+A public portfolio with a separate admin dashboard for projects, skills, and timeline entries. Content updates flow through the API, so they don't require editing the frontend source.
 
-**Engineering focus:** API integration, protected administrative workflows, and media management.  
-**Built with:** React, Express, PostgreSQL, and Cloudinary.
+**Engineering focus:** protected administrative workflows, API integration, and media management.
 
-[Live portfolio →](https://portfolio-beta-ochre-90.vercel.app/) · [Source code →](https://github.com/jharajiv315/Portfolio)
+[Visit portfolio →](https://portfolio-beta-ochre-90.vercel.app/) · [Read the code →](https://github.com/jharajiv315/Portfolio)
 
 </details>
 
+<br />
+
+<a href="https://github.com/jharajiv315/CodeAlpha_EcommerceStore"><img src="./assets/project-nexora.svg" width="100%" alt="NEXORA — e-commerce with transactional checkout" /></a>
+
 <details>
-<summary><b>03 / NEXORA — what happens at checkout?</b></summary>
+<summary><b>What happens at checkout ↴</b></summary>
 
-An e-commerce project built during my CodeAlpha internship. Beyond browsing and cart interactions, the backend calculates order totals and uses database transactions with row locking for stock updates.
+Built during my CodeAlpha internship. Beyond browsing and cart interactions, the backend calculates order totals and uses database transactions with row locking for stock updates.
 
-**Built with:** React, TypeScript, Express, PostgreSQL, and Supabase Auth.  
+**Stack:** React · TypeScript · Express · PostgreSQL · Supabase Auth
+
 [Explore the implementation →](https://github.com/jharajiv315/CodeAlpha_EcommerceStore)
 
 </details>
 
+<br />
+
+<a href="https://truva-gules.vercel.app/"><img src="./assets/project-truva.svg" width="100%" alt="TRUVA — packaging-text extraction and review" /></a>
+
 <details>
-<summary><b>04 / TRUVA — from packaging text to reviewable results</b></summary>
+<summary><b>The problem and my contribution ↴</b></summary>
 
-A team project exploring packaging-text extraction and rule-based checks for inspectors and consumers. My focus is machine learning and backend development.
+A team project exploring packaging-text extraction and rule-based checks for inspectors and consumers. My focus is **machine learning and backend development**, connecting extracted information to results people can review.
 
-**Built with:** Python, FastAPI, OCR, React, and TypeScript.  
-[Open the demo →](https://truva-gules.vercel.app/) · Source repository is currently private.
+**Stack:** Python · FastAPI · OCR · React · TypeScript
+
+[Open demo →](https://truva-gules.vercel.app/) · Source repository is currently private.
 
 </details>
 
 <br />
 
-<a id="workbench"></a>
-### On my workbench
+<a id="currently"></a>
+## Currently, at my desk
 
-| Learning | Applying |
+| Focus | In practice |
 | :--- | :--- |
-| **Machine learning** | CampusX, EDA, preprocessing, feature engineering, and evaluation. |
-| **Algorithms** | Java, DSA practice, complexity analysis, and edge cases. |
-| **Data & backend** | SQL, API design, and the flow of data through applications. |
+| **Learning ML** | CampusX, exploratory analysis, preprocessing, feature engineering, and model evaluation. |
+| **Solving problems** | DSA in Java, comparing approaches, understanding complexity, and testing edge cases. |
+| **Building systems** | SQL, API design, and connecting application layers. |
 
 <details>
-<summary><b>Experiment notes / Sonar classification</b></summary>
+<summary><b>Open my experiment notes / Sonar classification ↴</b></summary>
 
-I've been comparing scaling, power transformations, and outlier capping for rock-versus-mine classification. The next step is cross-validation: checking whether an apparent improvement holds up beyond a single train/test split.
+I've been comparing scaling, power transformations, and outlier capping for rock-versus-mine classification.
 
-I'm learning to ask *why* a result changes, and whether the evaluation supports the conclusion.
+The next step is cross-validation: checking whether apparent improvements hold up beyond a single train/test split. I'm learning to ask why a result changes and whether the evaluation supports the conclusion.
 
 </details>
 
 <br />
 
-### My working toolkit
+<a id="toolkit"></a>
+## My working toolkit
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,express,fastapi,postgres,mongodb,git&amp;perline=11" alt="Python, Java, JavaScript, TypeScript, React, Node.js, Express, FastAPI, PostgreSQL, MongoDB, and Git" />
-</p>
+**Languages** &nbsp; Python · Java · JavaScript · TypeScript · SQL  
+**Data & ML** &nbsp; NumPy · Pandas · Matplotlib · scikit-learn  
+**Applications** &nbsp; React · Node.js · Express · FastAPI · Tailwind CSS  
+**Storage & workflow** &nbsp; PostgreSQL · MongoDB · Git · GitHub · Vercel
 
-**For data:** NumPy · Pandas · Matplotlib · scikit-learn  
-<sub>Tools I've worked with across learning and projects. Still building depth; deep learning and MLOps are next steps.</sub>
+<sub>Tools I've used across learning and projects. I'm still building depth; deep learning and MLOps are future directions.</sub>
 
 <br />
 
-<a id="activity"></a>
-### Practice, in progress
-
-<a href="https://leetcode.com/u/Rajiv_Jha/">
-  <img src="https://leetcard.jacoblin.cool/Rajiv_Jha?theme=dark&amp;font=Inter&amp;ext=activity" width="480" alt="Rajiv's live LeetCode activity card. Click to view the profile." />
-</a>
-
-<sub>Live card supplied by a third-party service. <a href="https://leetcode.com/u/Rajiv_Jha/">LeetCode profile ↗</a> · <a href="https://github.com/jharajiv315?tab=repositories">Explore public repositories ↗</a></sub>
-
 <details>
-<summary><b>The approach behind the activity</b></summary>
+<summary><b>Beyond the projects / coding practice & learning habits ↴</b></summary>
 
-- Start with a working baseline and understand it.
-- Use errors and edge cases to expose gaps.
-- Improve the implementation after the demo.
-- Keep the claims smaller than the evidence.
+<br />
 
-My projects include experiments, coursework, and team efforts. This profile is an evolving record of what I'm learning and building.
+<a href="https://leetcode.com/u/Rajiv_Jha/"><img src="https://leetcard.jacoblin.cool/Rajiv_Jha?theme=light&amp;font=Inter&amp;ext=activity" width="480" alt="Live LeetCode activity for Rajiv_Jha; click to open the profile." /></a>
+
+[LeetCode profile →](https://leetcode.com/u/Rajiv_Jha/) · [Public repositories →](https://github.com/jharajiv315?tab=repositories)
+
+I start with a baseline, use errors to find gaps, and revisit projects after the demo. The debugging and maintenance work matter as much as getting the first version running.
+
+<sub>The activity card is provided by a third-party service.</sub>
 
 </details>
 
@@ -145,9 +140,11 @@ My projects include experiments, coursework, and team efforts. This profile is a
 ---
 
 <p align="center">
-  <b>Good projects start with a conversation.</b><br /><br />
-  <a href="https://www.linkedin.com/in/rajiv-jha-9b36ba3a2/">Let's connect ↗</a> &nbsp; / &nbsp;
-  <a href="mailto:jharajiv315@gmail.com">Send a note ↗</a>
-  <br /><br />
-  <sub>RAJIV JHA &nbsp; · &nbsp; MUMBAI &nbsp; · &nbsp; STILL CURIOUS.</sub>
+<br />
+<b>Something interesting in mind?</b><br />
+I'm happy to talk about projects, exchange ideas, and learn alongside other builders.
+<br /><br />
+<a href="https://www.linkedin.com/in/rajiv-jha-9b36ba3a2/"><b>Start a conversation ↗</b></a> &nbsp; · &nbsp; <a href="mailto:jharajiv315@gmail.com">Send an email</a>
+<br /><br />
+<sub>RAJIV JHA &nbsp; / &nbsp; BUILT WITH CURIOSITY. IMPROVED WITH PRACTICE.</sub>
 </p>
