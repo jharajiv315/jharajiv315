@@ -1,21 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" fill="none">
-<title>Rajiv Jha — Software, data, and the space between.</title>
-<desc>Computer science student building toward AI and machine learning engineering. Mumbai, India.</desc>
-<rect width="1280" height="360" rx="16" fill="#141918"/>
-<path d="M860 0V360M960 0V360M1060 0V360M1160 0V360M820 80H1280M820 180H1280M820 280H1280" stroke="#26312D" stroke-width="1"/>
-<circle cx="1060" cy="180" r="122" stroke="#4B6359"/>
-<circle cx="1060" cy="180" r="82" stroke="#769383"/>
-<path d="M938 180H1182M1060 58V302" stroke="#769383"/>
-<circle cx="1060" cy="180" r="9" fill="#C6DBAA"/>
-<circle cx="1060" cy="58" r="5" fill="#C6DBAA"/>
-<circle cx="1182" cy="180" r="5" fill="#C6DBAA"/>
-<rect x="48" y="48" width="28" height="3" fill="#C6DBAA"/>
-<text x="90" y="56" fill="#BAC7BF" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="3">RAJIV JHA / ENGINEERING NOTEBOOK</text>
-<text x="48" y="143" fill="#F3F0E8" font-family="Georgia, 'Times New Roman', serif" font-size="58">Software, data,</text>
-<text x="48" y="210" fill="#F3F0E8" font-family="Georgia, 'Times New Roman', serif" font-size="58">and the space between.</text>
-<text x="50" y="258" fill="#BAC7BF" font-family="Arial, Helvetica, sans-serif" font-size="19">Learning the foundations. Building things that use them.</text>
-<path d="M48 294H780" stroke="#35433C"/>
-<text x="50" y="325" fill="#BAC7BF" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2">COMPUTER SCIENCE</text>
-<text x="302" y="325" fill="#BAC7BF" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2">MUMBAI, INDIA</text>
-<text x="537" y="325" fill="#C6DBAA" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2">CLASS OF 2029</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440">
+<title>Rajiv Jha — Building at the intersection of software and intelligence</title>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#090D19"/><stop offset="1" stop-color="#17192F"/></linearGradient><radialGradient id="glow"><stop stop-color="#7561DB" stop-opacity=".3"/><stop offset="1" stop-color="#7561DB" stop-opacity="0"/></radialGradient><linearGradient id="line"><stop stop-color="#61E4CC"/><stop offset="1" stop-color="#B49BFF"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#B7C5FF" stroke-opacity=".045"/></pattern></defs>
+<style>@keyframes spin{to{transform:rotate(360deg)}}@keyframes pulse{50%{opacity:.35}}@keyframes drift{50%{transform:translateY(-10px)}}.orbit{transform-origin:940px 213px;animation:spin 38s linear infinite}.float{animation:drift 7s ease-in-out infinite}.pulse{animation:pulse 4s ease-in-out infinite}@media(prefers-reduced-motion:reduce){.orbit,.float,.pulse{animation:none}}</style>
+<rect width="1200" height="440" rx="20" fill="url(#bg)"/><rect width="1200" height="440" rx="20" fill="url(#grid)"/><ellipse cx="970" cy="210" rx="300" ry="260" fill="url(#glow)"/>
+<rect x="1" y="1" width="1198" height="438" rx="19" fill="none" stroke="#31334F"/>
+<g font-family="Arial,Helvetica,sans-serif"><text x="54" y="54" font-size="14" letter-spacing="4" fill="#C1C7DD">RAJIV JHA</text><circle class="pulse" cx="977" cy="49" r="4" fill="#76E5C4"/><text x="990" y="54" font-size="11" letter-spacing="2" fill="#A9B6CE">LEARN · BUILD · REFINE</text>
+<text x="54" y="125" font-family="monospace" font-size="13" fill="#8B93B2">COMPUTER SCIENCE / ASPIRING AI &amp; ML ENGINEER</text>
+<text x="50" y="196" font-size="61" font-weight="700" letter-spacing="-2" fill="#F4F3FC">Curiosity into code.</text>
+<text x="50" y="265" font-size="61" font-weight="700" letter-spacing="-2" fill="url(#line)">Code into possibility.</text>
+<text x="54" y="309" font-size="17" fill="#ACB4CF">Exploring data. Building applications. Understanding what connects them.</text>
+<path d="M54 354H1146" stroke="#33364E"/>
+<text x="54" y="394" font-family="monospace" font-size="12" letter-spacing="1" fill="#C4CAE0">MUMBAI, INDIA</text><text x="270" y="394" font-family="monospace" font-size="12" letter-spacing="1" fill="#C4CAE0">B.TECH · 2029</text><text x="493" y="394" font-family="monospace" font-size="12" letter-spacing="1" fill="#C4CAE0">2× HACKATHON FINALIST</text><text x="1000" y="394" font-family="monospace" font-size="12" fill="#8D97BC">RJ / NOTEBOOK</text></g>
+<g class="float"><circle cx="940" cy="213" r="108" fill="#101528" stroke="#414263"/><circle cx="940" cy="213" r="79" fill="none" stroke="#6A5D9F" stroke-dasharray="3 9"/><g class="orbit"><ellipse cx="940" cy="213" rx="137" ry="52" fill="none" stroke="#9C88E5" transform="rotate(-35 940 213)"/><ellipse cx="940" cy="213" rx="137" ry="52" fill="none" stroke="#59B6B2" transform="rotate(35 940 213)"/><circle cx="1053" cy="147" r="7" fill="#B9A4FF"/><circle cx="828" cy="147" r="5" fill="#82EAD2"/></g><text x="940" y="227" text-anchor="middle" font-family="monospace" font-size="39" fill="#EAE8FF">&lt;rj /&gt;</text></g></svg>
