@@ -1,14 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440">
-<title>Rajiv Jha — Building at the intersection of software and intelligence</title>
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#090D19"/><stop offset="1" stop-color="#17192F"/></linearGradient><radialGradient id="glow"><stop stop-color="#7561DB" stop-opacity=".3"/><stop offset="1" stop-color="#7561DB" stop-opacity="0"/></radialGradient><linearGradient id="line"><stop stop-color="#61E4CC"/><stop offset="1" stop-color="#B49BFF"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#B7C5FF" stroke-opacity=".045"/></pattern></defs>
-<style>@keyframes spin{to{transform:rotate(360deg)}}@keyframes pulse{50%{opacity:.35}}@keyframes drift{50%{transform:translateY(-10px)}}.orbit{transform-origin:940px 213px;animation:spin 38s linear infinite}.float{animation:drift 7s ease-in-out infinite}.pulse{animation:pulse 4s ease-in-out infinite}@media(prefers-reduced-motion:reduce){.orbit,.float,.pulse{animation:none}}</style>
-<rect width="1200" height="440" rx="20" fill="url(#bg)"/><rect width="1200" height="440" rx="20" fill="url(#grid)"/><ellipse cx="970" cy="210" rx="300" ry="260" fill="url(#glow)"/>
-<rect x="1" y="1" width="1198" height="438" rx="19" fill="none" stroke="#31334F"/>
-<g font-family="Arial,Helvetica,sans-serif"><text x="54" y="54" font-size="14" letter-spacing="4" fill="#C1C7DD">RAJIV JHA</text><circle class="pulse" cx="977" cy="49" r="4" fill="#76E5C4"/><text x="990" y="54" font-size="11" letter-spacing="2" fill="#A9B6CE">LEARN · BUILD · REFINE</text>
-<text x="54" y="125" font-family="monospace" font-size="13" fill="#8B93B2">COMPUTER SCIENCE / ASPIRING AI &amp; ML ENGINEER</text>
-<text x="50" y="196" font-size="61" font-weight="700" letter-spacing="-2" fill="#F4F3FC">Curiosity into code.</text>
-<text x="50" y="265" font-size="61" font-weight="700" letter-spacing="-2" fill="url(#line)">Code into possibility.</text>
-<text x="54" y="309" font-size="17" fill="#ACB4CF">Exploring data. Building applications. Understanding what connects them.</text>
-<path d="M54 354H1146" stroke="#33364E"/>
-<text x="54" y="394" font-family="monospace" font-size="12" letter-spacing="1" fill="#C4CAE0">MUMBAI, INDIA</text><text x="270" y="394" font-family="monospace" font-size="12" letter-spacing="1" fill="#C4CAE0">B.TECH · 2029</text><text x="493" y="394" font-family="monospace" font-size="12" letter-spacing="1" fill="#C4CAE0">2× HACKATHON FINALIST</text><text x="1000" y="394" font-family="monospace" font-size="12" fill="#8D97BC">RJ / NOTEBOOK</text></g>
-<g class="float"><circle cx="940" cy="213" r="108" fill="#101528" stroke="#414263"/><circle cx="940" cy="213" r="79" fill="none" stroke="#6A5D9F" stroke-dasharray="3 9"/><g class="orbit"><ellipse cx="940" cy="213" rx="137" ry="52" fill="none" stroke="#9C88E5" transform="rotate(-35 940 213)"/><ellipse cx="940" cy="213" rx="137" ry="52" fill="none" stroke="#59B6B2" transform="rotate(35 940 213)"/><circle cx="1053" cy="147" r="7" fill="#B9A4FF"/><circle cx="828" cy="147" r="5" fill="#82EAD2"/></g><text x="940" y="227" text-anchor="middle" font-family="monospace" font-size="39" fill="#EAE8FF">&lt;rj /&gt;</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="470" viewBox="0 0 1000 470"><title>Rajiv Jha — Software engineering and applied machine learning</title>
+<defs><radialGradient id="halo"><stop stop-color="#68C8A2" stop-opacity=".25"/><stop offset="1" stop-color="#68C8A2" stop-opacity="0"/></radialGradient><linearGradient id="metal" x2=".8" y2="1"><stop stop-color="#E4F3D9"/><stop offset=".4" stop-color="#7BAF96"/><stop offset="1" stop-color="#193F35"/></linearGradient></defs>
+<style>@keyframes turn{to{transform:rotate(360deg)}}@keyframes breathe{50%{opacity:.4}}.ring{transform-origin:805px 211px;animation:turn 60s linear infinite}.dot{animation:breathe 4s ease-in-out infinite}@media(prefers-reduced-motion:reduce){.ring,.dot{animation:none}}</style>
+<rect width="1000" height="470" rx="20" fill="#0D211D"/>
+<ellipse cx="806" cy="208" rx="240" ry="245" fill="url(#halo)"/>
+<g stroke="#A4C5B3" opacity=".08"><path d="M650 0V390M730 0V390M810 0V390M890 0V390M970 0V390M620 50H1000M620 130H1000M620 210H1000M620 290H1000M620 370H1000"/></g>
+<g font-family="Arial,Helvetica,sans-serif">
+<rect x="40" y="32" width="37" height="37" rx="10" fill="#DDE9D3"/><text x="58.5" y="57" text-anchor="middle" fill="#16362C" font-size="18" font-weight="700">rj.</text>
+<text x="92" y="55" fill="#DDE9D3" font-size="12" letter-spacing="2">THE ENGINEERING NOTEBOOK</text>
+<circle cx="813" cy="51" r="4" fill="#C2E8B3" class="dot"/><text x="827" y="55" fill="#BAC9BE" font-size="11" letter-spacing="1">LEARNING IN PUBLIC</text>
+<text x="40" y="139" fill="#B9CABB" font-size="13" letter-spacing="3">HELLO, I'M</text>
+<text x="34" y="236" fill="#F1F0DE" font-family="Georgia,serif" font-size="105" letter-spacing="-4">Rajiv Jha.</text>
+<text x="40" y="288" fill="#E2E7D8" font-size="28">Software builder. ML learner.</text>
+<text x="40" y="329" fill="#A4BAAC" font-size="18">Making sense of data. Making things people can use.</text>
+<path d="M40 379H960" stroke="#496053" stroke-opacity=".65"/>
+<text x="40" y="413" fill="#91A999" font-size="10" letter-spacing="2">BASED IN</text><text x="40" y="439" fill="#E2E7D8" font-size="16">Mumbai, India</text>
+<text x="285" y="413" fill="#91A999" font-size="10" letter-spacing="2">BUILDING TOWARD</text><text x="285" y="439" fill="#E2E7D8" font-size="16">AI / ML Engineering</text>
+<text x="595" y="413" fill="#91A999" font-size="10" letter-spacing="2">EDUCATION</text><text x="595" y="439" fill="#E2E7D8" font-size="16">B.Tech · 2029</text>
+<text x="820" y="413" fill="#91A999" font-size="10" letter-spacing="2">MILESTONE</text><text x="820" y="439" fill="#E2E7D8" font-size="16">2× hackathon finalist</text></g>
+<g class="ring"><circle cx="805" cy="211" r="120" fill="none" stroke="#83AF94" stroke-opacity=".4"/><ellipse cx="805" cy="211" rx="86" ry="120" fill="none" stroke="url(#metal)" stroke-width="18" transform="rotate(-35 805 211)"/><ellipse cx="805" cy="211" rx="86" ry="120" fill="none" stroke="url(#metal)" stroke-width="3" transform="rotate(35 805 211)"/><circle cx="925" cy="211" r="7" fill="#E2B891"/></g><circle cx="805" cy="211" r="33" fill="#142F27" stroke="#B0CBB4"/><text x="805" y="220" text-anchor="middle" font-family="monospace" font-size="24" fill="#DBE9D4">&lt;/&gt;</text>
+</svg>
